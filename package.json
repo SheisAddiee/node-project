@@ -1,0 +1,29 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "First Node Project",
+  "keywords": [
+    "learning"
+  ],
+  "homepage": "https://github.com/SheisAddiee/learningnode#readme",
+  "bugs": {
+    "url": "https://github.com/SheisAddiee/learningnode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheisAddiee/learningnode.git"
+  },
+  "license": "MIT",
+  "author": "Adesola Adegoke",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amount-to-words": "^6.0.3",
+    "express": "^5.1.0",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.10"
+  }
+}
